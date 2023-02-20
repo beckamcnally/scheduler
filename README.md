@@ -25,7 +25,7 @@
 This site is a simple daily schedular. You can organize your work day by adding notes and updating through out the say. For ease the current time will be displayed in red, the hours that have already past in the day will display in grey, and any hours that are remaining in the day will display in green.
 
 
-![Site Landing Page](#)
+![Site Landing Page](./assets/images/readmegif.gif)
 
 
 ## Learning Points 
